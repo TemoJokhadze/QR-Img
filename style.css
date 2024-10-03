@@ -17,6 +17,7 @@ body {
   justify-items: center;
   align-items: center;
   flex-direction: column;
+  border-radius: 20px;
 }
 img {
   width: 288px;
